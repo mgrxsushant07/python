@@ -8,4 +8,4 @@ width=float(input('Enter width :'))
 
 area=length * width
 
-print(f'The area of rectange is {area}.')
+print(f'The area of rectange is {area}..')

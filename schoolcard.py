@@ -5,4 +5,4 @@ Schoolcard_num=input("Enter your Schoolcard number :")
 if Schoolcard_num=="100":
     print("You are wlcome, You can enter the school")
 else:
-    print("You can go back to the home...")
+    print("You can go back to the home.")  

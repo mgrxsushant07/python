@@ -5,7 +5,7 @@ def play_rock_paper_scissors():
     print("Rules: Rock beats Scissors, Scissors beats Paper, Paper beats Rock.\n")
 
     # Choices for the game
-    choices = ["rock", "paper", "scissors"]
+    choices = ["rock" , "paper", "scissors"]
 
     while True:
         # User choice
