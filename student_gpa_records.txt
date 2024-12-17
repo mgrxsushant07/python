@@ -1,0 +1,2 @@
+Mathematics: 100, Science: 100, Optional Math: 100, Nepali: 100, English: 100, Social: 49, Computer: 50, Total Marks: 599, Average: 85.57, GPA: 3.70
+Mathematics: 100, Science: 100, Optional Math: 100, Nepali: 100, English: 100, Social: 100, Computer: 50, Total Marks: 650, Average: 92.86, GPA: 4.00

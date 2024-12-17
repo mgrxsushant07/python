@@ -14,7 +14,7 @@ class Bank:
         print(f'The name of the bank employee is {self.employee_name}. Address is {self.address}. Contact is {self.contact}, and his/her total salary is {self.__salary}')
 
 # Object creation
-em = Bank("", "", "", 0)
+em = Bank("", "", "", 0)    
 
 # Taking input from the user
 em.employee_name = input("Enter employee name: ")

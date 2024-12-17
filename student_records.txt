@@ -1,0 +1,5 @@
+Student Name: Rajan Bhandari, Mathematics: 87, Science: 85, Optional Math: 76, Nepali: 80, English: 84, Social: 86, Computer: 47
+Student Name: Sushant Gaha Magar, GPA: 4.00
+Student Name: Sushant Gaha Magar, Mathematics: 100, Science: 100, Optional Math: 100, Nepali: 100, English: 100, Social: 100, Computer: 50
+Student Name: Sushant Gaha Magar, GPA: 3.69
+Student Name: Sushant Gaha Magar, Mathematics: 50, Science: 100, Optional Math: 100, Nepali: 100, English: 100, Social: 100, Computer: 50
