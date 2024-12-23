@@ -1,1 +1,5 @@
 My name is Sushant Gaha Magar.
+
+### Create A Program that check the person is voter or not using his birth year.
+### Use current year to calculate his age.
+### If age >=18 then he is voter else not voter

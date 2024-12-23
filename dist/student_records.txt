@@ -1,3 +1,5 @@
 Student Name: Sushant Gaha Magar, Mathematics: 85, Science: 87, Optional Population: 90, Nepali: 84, English: 87, Social: 77, Computer: 45
 Student Name: Aryan Poudel, GPA: 3.18
 Student Name: Aryan Poudel, Mathematics: 79, Science: 80, Optional Math: 74, Nepali: 82, English: 84, Social: 75, Computer: 43
+Student Name: Rajan Bhandari, GPA: 3.29
+Student Name: Rajan Bhandari, Mathematics: 87, Science: 82, Optional Math: 76, Nepali: 82, English: 86, Social: 76, Computer: 45
