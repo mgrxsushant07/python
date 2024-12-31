@@ -6,4 +6,3 @@ display('Sushant Gaha Magar')
 
 #parameter and return
 
-def 
